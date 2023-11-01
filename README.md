@@ -15,12 +15,8 @@ c. Sensor installation: Install sensors (e.g., ultrasonic or magnetic sensors) i
 parking space. These sensors detect the presence of a vehicle and relay this
 information to the central system.
 d. Communication network: Establish a reliable network connection to connect all
-sensors and cameras to a central server. This could be a wired or wireless network,
-depending on the location and requirements.
-2.Central System and Software:
-a. Central serve
-b. Parking management software:
-3.User-Facing Interfaces:
+sensors and cameras to a central server.
+2.User-Facing Interfaces:
 a. Mobile app: Develop a mobile app that allows drivers to find available parking
 spaces, make reservations, and pay for parking. Ensure the app is user-friendly and
 accessible on both Android and iOS platforms.
